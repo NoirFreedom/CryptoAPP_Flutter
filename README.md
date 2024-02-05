@@ -22,5 +22,5 @@
 - **레이아웃 구성**: 앱의 레이아웃은 사용자가 정보를 쉽게 파악하고 필요한 조치를 취할 수 있도록 구성되었습니다.
 
 
-<img src="assets/images/financeApp_main_Screen.png" alt="Finance App" width="300">
+<img src="toonflixApp/assets/images/financeApp_main_Screen.png" alt="Finance App" width="300">
 
